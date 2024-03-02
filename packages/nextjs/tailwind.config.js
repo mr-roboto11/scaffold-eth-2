@@ -8,17 +8,17 @@ module.exports = {
     themes: [
       {
         light: {
-          primary: "#93BBFB",
-          "primary-content": "#212638",
-          secondary: "#DAE8FF",
-          "secondary-content": "#212638",
-          accent: "#93BBFB",
-          "accent-content": "#212638",
-          neutral: "#212638",
+          primary: "#ffffff",
+          "primary-content": "#0000b3",
+          secondary: "#0000ff",
+          "secondary-content": "#000000",
+          accent: "#00ff00",
+          "accent-content": "#000000",
+          neutral: "#d8d8ff",
           "neutral-content": "#ffffff",
           "base-100": "#ffffff",
-          "base-200": "#f4f8ff",
-          "base-300": "#DAE8FF",
+          "base-200": "#00004e",
+          "base-300": "#b1b1ff",
           "base-content": "#212638",
           info: "#93BBFB",
           success: "#34EEB6",
@@ -71,6 +71,7 @@ module.exports = {
           },
         },
       },
+      
     ],
   },
   theme: {
