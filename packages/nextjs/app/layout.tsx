@@ -15,13 +15,13 @@ export const metadata: Metadata = {
     default: "Scaffold-ETH 2 App",
     template: "%s | Scaffold-ETH 2",
   },
-  description: "Built with 🏗 Scaffold-ETH 2",
+  description: "Remixed by KIN",
   openGraph: {
     title: {
       default: "Scaffold-ETH 2 App",
       template: "%s | Scaffold-ETH 2",
     },
-    description: "Built with 🏗 Scaffold-ETH 2",
+    description: "Remixed by KIN",
     images: [
       {
         url: imageUrl,
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
       default: "Scaffold-ETH 2",
       template: "%s | Scaffold-ETH 2",
     },
-    description: "Built with 🏗 Scaffold-ETH 2",
+    description: "Remixed by KIN",
   },
   icons: {
     icon: [{ url: "/favicon.png", sizes: "32x32", type: "image/png" }],
